@@ -6,9 +6,7 @@ Otwórz Kalendarz i wybierzesz opcję "Dołącz" do spotkaniu w którym chcesz u
 
 
 
-## Have you had a chance to answer the previous question?
+## Czy można zablokować uczestnikom spotkania możliwość wyciszenia mikrofonu prowadzącego oraz czy można zablokować przerwanie nagrywania przez uczestników spotkania?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
+Tak. Ustaw wszystkich jako uczestników, a tylko siebie jako prezentera
 
